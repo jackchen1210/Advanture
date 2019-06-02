@@ -1,4 +1,4 @@
-# Advanture(勇者之路)
+# Advanture(勇者之路 測試版)
 
 已知bug或問題:
    1.人物與階梯的碰撞判定 ok
